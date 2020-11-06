@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week5App</string>
+    <string name="msg">uziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziuziJ</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+</resources>
